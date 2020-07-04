@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:showIn="@layout/single_item_view_appbar">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/img"
+        android:scaleType="fitXY"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/button"
+        android:layout_alignParentRight="true">
+    <io.github.yavski.fabspeeddial.FabSpeedDial
+        android:id="@+id/git"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="bottom|start"
+        app:fabGravity="top_end"
+        app:fabBackgroundTint="@color/start"
+        android:layout_alignParentBottom="true"
+        app:fabMenu="@menu/float1"
+        app:miniFabBackgroundTint="@color/start"
+        app:miniFabDrawableTint="@color/white"
+        app:miniFabTitleTextColor="?attr/colorPrimaryDark">
+    </io.github.yavski.fabspeeddial.FabSpeedDial>
+    </LinearLayout>
+
+        <LinearLayout
+            android:elevation="30dp"
+            android:fadingEdgeLength="20dp"
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/gradient"
+            android:orientation="horizontal"
+            android:paddingTop="4dp"
+            android:paddingBottom="4dp"
+            android:weightSum="2">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="37dp"
+                    android:layout_height="match_parent"
+                    android:text="wallpaper"
+                    android:id="@+id/wall"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    app:srcCompat="@drawable/wall"
+                    ></ImageView>
+            </RelativeLayout>
+
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_weight="1">
+            <ToggleButton
+                android:layout_width="37dp"
+                android:layout_height="match_parent"
+                android:id="@+id/fav1"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="false"
+                android:textOn=""
+                android:textOff=""/>
+</RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

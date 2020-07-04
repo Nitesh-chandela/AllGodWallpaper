@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".privacy_policy"
+    android:background="@color/splash">
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/app"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/tool"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@drawable/gradient"
+            app:popupTheme="@style/AppTheme.PopupOverlay"/>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.cardview.widget.CardView
+        android:layout_below="@+id/app"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="40dp"
+        android:layout_margin="7dp">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="This is the privacy policy which is between user and the application developer.This application is developed for all users to provide them best application experience from this type of application.The content is used in this application for users and the company does not stand to make any claim on that content.We do not have copyrights of the images or videos shown in application.This data us collected from different locations.Application made only to fulfill the basic requirement of users. Which is for user's entertainment purpose.If any user of this application has any issues or compliant about this application.Before taking steps against the application or company,we request you to contact us.We are always there to help you.
+            You Think,We Create."
+            android:padding="20dp"
+            android:textColor="@color/black"
+            android:textSize="16dp" />
+        </ScrollView>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

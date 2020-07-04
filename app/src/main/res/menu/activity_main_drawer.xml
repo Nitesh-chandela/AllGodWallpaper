@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="snavigation_view">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/shiv"
+            android:icon="@drawable/ic_next"
+            android:title="@string/shiv" />
+        <item
+            android:id="@+id/ganesh"
+            android:icon="@drawable/ic_next"
+            android:title="@string/ganesh" />
+        <item
+            android:id="@+id/krishan"
+            android:icon="@drawable/ic_next"
+            android:title="@string/krishan" />
+        <item
+            android:id="@+id/hanuman"
+            android:icon="@drawable/ic_next"
+            android:title="@string/hanuman" />
+        <item
+            android:id="@+id/ram"
+            android:icon="@drawable/ic_next"
+            android:title="@string/ram" />
+        <item
+            android:id="@+id/laxmi"
+            android:icon="@drawable/ic_next"
+            android:title="@string/laxmi" />
+        <item
+            android:id="@+id/saraswati"
+            android:icon="@drawable/ic_next"
+            android:title="@string/saraswati" />
+        <item
+            android:id="@+id/vishnu"
+            android:icon="@drawable/ic_next"
+            android:title="@string/vishnu" />
+        <item
+            android:id="@+id/sherovalimata"
+            android:icon="@drawable/ic_next"
+            android:title="@string/shero_vali_mata" />
+        <item
+            android:id="@+id/brahma"
+            android:icon="@drawable/ic_next"
+            android:title="@string/brahma" />
+    </group>
+    <item android:title="Favourite">
+        <menu>
+            <item
+                android:id="@+id/far"
+                android:icon="@drawable/ic_favorite"
+                android:title="Favourite Images" />
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_rate"
+                android:title="Rate us" />
+        </menu>
+    </item>
+
+
+
+</menu>

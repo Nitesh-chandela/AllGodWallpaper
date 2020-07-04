@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.allgodwallpaper"
+    android:installLocation="auto">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo1"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Videos"
+            android:label="Videos"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".notConnected"
+            android:label="Videos"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Fav"
+            android:label="Favourite Images"
+            android:noHistory="true"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".privacy_policy"
+            android:label="Privacy Policy"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SingleItemView"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".vishnuji_images"
+            android:label="@string/vishnu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".brahmaji_images"
+            android:label="@string/brahma"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".sherovalimata_images"
+            android:label="@string/shero_vali_mata"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".saraswati_images"
+            android:label="@string/saraswati"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".laxmiji_images"
+            android:label="@string/laxmi"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".shriramji_images"
+            android:label="@string/ram"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".hanuman_images"
+            android:label="@string/hanuman"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".krishanji_images"
+            android:label="@string/krishan"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ganeshji_images"
+            android:label="@string/ganesh"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".shivji_images"
+            android:label="@string/shiv"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+</manifest>

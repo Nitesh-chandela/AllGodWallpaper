@@ -1,0 +1,635 @@
+<resources>
+    <integer-array name="img_arr">
+        <item>@drawable/b1</item>
+        <item>@drawable/g1</item>
+        <item>@drawable/k1</item>
+        <item>@drawable/h1</item>
+        <item>@drawable/r1</item>
+        <item>@drawable/l1</item>
+        <item>@drawable/s1</item>
+        <item>@drawable/v1</item>
+        <item>@drawable/sh1</item>
+        <item>@drawable/bh1</item>
+
+    </integer-array>
+    <integer-array name="ganesh_arr">
+        <item>@drawable/g1</item>
+        <item>@drawable/g2</item>
+        <item>@drawable/g3</item>
+        <item>@drawable/g4</item>
+        <item>@drawable/g5</item>
+        <item>@drawable/g6</item>
+        <item>@drawable/g7</item>
+        <item>@drawable/g8</item>
+        <item>@drawable/g9</item>
+        <item>@drawable/g10</item>
+        <item>@drawable/g11</item>
+        <item>@drawable/g12</item>
+        <item>@drawable/g13</item>
+        <item>@drawable/g14</item>
+        <item>@drawable/g15</item>
+        <item>@drawable/g16</item>
+        <item>@drawable/g17</item>
+        <item>@drawable/g18</item>
+        <item>@drawable/g19</item>
+        <item>@drawable/g20</item>
+        <item>@drawable/g21</item>
+        <item>@drawable/g22</item>
+        <item>@drawable/g23</item>
+        <item>@drawable/g24</item>
+        <item>@drawable/g25</item>
+        <item>@drawable/g26</item>
+        <item>@drawable/g27</item>
+        <item>@drawable/g28</item>
+        <item>@drawable/g29</item>
+        <item>@drawable/g30</item>
+        <item>@drawable/g31</item>
+        <item>@drawable/g32</item>
+        <item>@drawable/g33</item>
+        <item>@drawable/g34</item>
+        <item>@drawable/g35</item>
+        <item>@drawable/g36</item>
+        <item>@drawable/g37</item>
+        <item>@drawable/g38</item>
+        <item>@drawable/g39</item>
+        <item>@drawable/g40</item>
+        <item>@drawable/g41</item>
+        <item>@drawable/g42</item>
+        <item>@drawable/g43</item>
+        <item>@drawable/g44</item>
+        <item>@drawable/g45</item>
+        <item>@drawable/g46</item>
+        <item>@drawable/g47</item>
+        <item>@drawable/g48</item>
+        <item>@drawable/g49</item>
+        <item>@drawable/g50</item>
+        <item>@drawable/g51</item>
+        <item>@drawable/g52</item>
+        <item>@drawable/g53</item>
+        <item>@drawable/g54</item>
+        <item>@drawable/g55</item>
+        <item>@drawable/g56</item>
+    </integer-array>
+    <integer-array name="shivji_arr">
+        <item>@drawable/b1</item>
+        <item>@drawable/b2</item>
+        <item>@drawable/b3</item>
+        <item>@drawable/b4</item>
+        <item>@drawable/b5</item>
+        <item>@drawable/b6</item>
+        <item>@drawable/b7</item>
+        <item>@drawable/b8</item>
+        <item>@drawable/b9</item>
+        <item>@drawable/b10</item>
+        <item>@drawable/b11</item>
+        <item>@drawable/b12</item>
+        <item>@drawable/b13</item>
+        <item>@drawable/b14</item>
+        <item>@drawable/b15</item>
+        <item>@drawable/b16</item>
+        <item>@drawable/b17</item>
+        <item>@drawable/b18</item>
+        <item>@drawable/b19</item>
+        <item>@drawable/b20</item>
+        <item>@drawable/b21</item>
+        <item>@drawable/b22</item>
+        <item>@drawable/b23</item>
+        <item>@drawable/b24</item>
+        <item>@drawable/b25</item>
+        <item>@drawable/b26</item>
+        <item>@drawable/b27</item>
+        <item>@drawable/b28</item>
+        <item>@drawable/b29</item>
+        <item>@drawable/b30</item>
+        <item>@drawable/b31</item>
+        <item>@drawable/b32</item>
+        <item>@drawable/b33</item>
+        <item>@drawable/b34</item>
+        <item>@drawable/b35</item>
+        <item>@drawable/b36</item>
+        <item>@drawable/b37</item>
+        <item>@drawable/b38</item>
+        <item>@drawable/b39</item>
+        <item>@drawable/b40</item>
+        <item>@drawable/b41</item>
+        <item>@drawable/b42</item>
+        <item>@drawable/b43</item>
+        <item>@drawable/b44</item>
+        <item>@drawable/b45</item>
+        <item>@drawable/b46</item>
+        <item>@drawable/b48</item>
+        <item>@drawable/b49</item>
+        <item>@drawable/b50</item>
+        <item>@drawable/b51</item>
+        <item>@drawable/b52</item>
+        <item>@drawable/b53</item>
+        <item>@drawable/b54</item>
+    </integer-array>
+    <integer-array name="hanuman_arr">
+        <item>@drawable/h1</item>
+        <item>@drawable/h2</item>
+        <item>@drawable/h3</item>
+        <item>@drawable/h4</item>
+        <item>@drawable/h5</item>
+        <item>@drawable/h6</item>
+        <item>@drawable/h7</item>
+        <item>@drawable/h8</item>
+        <item>@drawable/h9</item>
+        <item>@drawable/h10</item>
+        <item>@drawable/h11</item>
+        <item>@drawable/h12</item>
+        <item>@drawable/h13</item>
+        <item>@drawable/h14</item>
+        <item>@drawable/h15</item>
+        <item>@drawable/h16</item>
+        <item>@drawable/h17</item>
+        <item>@drawable/h18</item>
+        <item>@drawable/h19</item>
+        <item>@drawable/h20</item>
+        <item>@drawable/h21</item>
+        <item>@drawable/h22</item>
+        <item>@drawable/h23</item>
+        <item>@drawable/h24</item>
+        <item>@drawable/h25</item>
+        <item>@drawable/h26</item>
+        <item>@drawable/h27</item>
+        <item>@drawable/h28</item>
+        <item>@drawable/h29</item>
+        <item>@drawable/h30</item>
+        <item>@drawable/h31</item>
+        <item>@drawable/h32</item>
+        <item>@drawable/h33</item>
+        <item>@drawable/h34</item>
+        <item>@drawable/h35</item>
+        <item>@drawable/h36</item>
+        <item>@drawable/h37</item>
+        <item>@drawable/h38</item>
+        <item>@drawable/h39</item>
+        <item>@drawable/h40</item>
+        <item>@drawable/h41</item>
+        <item>@drawable/h42</item>
+        <item>@drawable/h43</item>
+        <item>@drawable/h44</item>
+        <item>@drawable/h45</item>
+        <item>@drawable/h46</item>
+        <item>@drawable/h47</item>
+        <item>@drawable/h48</item>
+        <item>@drawable/h49</item>
+        <item>@drawable/h50</item>
+        <item>@drawable/h51</item>
+        <item>@drawable/h52</item>
+        <item>@drawable/h53</item>
+        <item>@drawable/h54</item>
+
+    </integer-array>
+    <integer-array name="krishanji_arr">
+        <item>@drawable/k1</item>
+        <item>@drawable/k2</item>
+        <item>@drawable/k3</item>
+        <item>@drawable/k4</item>
+        <item>@drawable/k5</item>
+        <item>@drawable/k6</item>
+        <item>@drawable/k7</item>
+        <item>@drawable/k8</item>
+        <item>@drawable/k9</item>
+        <item>@drawable/k10</item>
+        <item>@drawable/k11</item>
+        <item>@drawable/k12</item>
+        <item>@drawable/k13</item>
+        <item>@drawable/k14</item>
+        <item>@drawable/k15</item>
+        <item>@drawable/k16</item>
+        <item>@drawable/k17</item>
+        <item>@drawable/k18</item>
+        <item>@drawable/k19</item>
+        <item>@drawable/k20</item>
+        <item>@drawable/k21</item>
+        <item>@drawable/k22</item>
+        <item>@drawable/k23</item>
+        <item>@drawable/k24</item>
+        <item>@drawable/k25</item>
+        <item>@drawable/k26</item>
+        <item>@drawable/k27</item>
+        <item>@drawable/k28</item>
+        <item>@drawable/k29</item>
+        <item>@drawable/k30</item>
+        <item>@drawable/k31</item>
+        <item>@drawable/k32</item>
+        <item>@drawable/k33</item>
+        <item>@drawable/k34</item>
+        <item>@drawable/k35</item>
+        <item>@drawable/k36</item>
+        <item>@drawable/k37</item>
+        <item>@drawable/k38</item>
+        <item>@drawable/k39</item>
+        <item>@drawable/k40</item>
+        <item>@drawable/k41</item>
+        <item>@drawable/k42</item>
+        <item>@drawable/k43</item>
+        <item>@drawable/k44</item>
+        <item>@drawable/k45</item>
+        <item>@drawable/k46</item>
+        <item>@drawable/k47</item>
+        <item>@drawable/k48</item>
+        <item>@drawable/k49</item>
+        <item>@drawable/k50</item>
+        <item>@drawable/k51</item>
+        <item>@drawable/k52</item>
+        <item>@drawable/k53</item>
+        <item>@drawable/k54</item>
+        <item>@drawable/k55</item>
+        <item>@drawable/k56</item>
+    </integer-array>
+    <integer-array name="ramji_arr">
+        <item>@drawable/r1</item>
+        <item>@drawable/r2</item>
+        <item>@drawable/r3</item>
+        <item>@drawable/r4</item>
+        <item>@drawable/r5</item>
+        <item>@drawable/r6</item>
+        <item>@drawable/r7</item>
+        <item>@drawable/r8</item>
+        <item>@drawable/r9</item>
+        <item>@drawable/r10</item>
+        <item>@drawable/r11</item>
+        <item>@drawable/r12</item>
+        <item>@drawable/r13</item>
+        <item>@drawable/r14</item>
+        <item>@drawable/r15</item>
+        <item>@drawable/r16</item>
+        <item>@drawable/r17</item>
+        <item>@drawable/r18</item>
+        <item>@drawable/r19</item>
+        <item>@drawable/r20</item>
+        <item>@drawable/r21</item>
+        <item>@drawable/r22</item>
+        <item>@drawable/r23</item>
+        <item>@drawable/r24</item>
+        <item>@drawable/r25</item>
+        <item>@drawable/r26</item>
+        <item>@drawable/r27</item>
+        <item>@drawable/r28</item>
+        <item>@drawable/r29</item>
+        <item>@drawable/r30</item>
+        <item>@drawable/r31</item>
+        <item>@drawable/r32</item>
+        <item>@drawable/r33</item>
+        <item>@drawable/r34</item>
+        <item>@drawable/r35</item>
+        <item>@drawable/r36</item>
+        <item>@drawable/r37</item>
+        <item>@drawable/r38</item>
+        <item>@drawable/r39</item>
+        <item>@drawable/r40</item>
+        <item>@drawable/r41</item>
+        <item>@drawable/r42</item>
+        <item>@drawable/r43</item>
+        <item>@drawable/r44</item>
+        <item>@drawable/r45</item>
+        <item>@drawable/r46</item>
+        <item>@drawable/r47</item>
+        <item>@drawable/r48</item>
+        <item>@drawable/r49</item>
+        <item>@drawable/r50</item>
+        <item>@drawable/r51</item>
+        <item>@drawable/r52</item>
+        <item>@drawable/r53</item>
+
+    </integer-array>
+    <integer-array name="laxmiji_arr">
+        <item>@drawable/l1</item>
+        <item>@drawable/l2</item>
+        <item>@drawable/l3</item>
+        <item>@drawable/l4</item>
+        <item>@drawable/l5</item>
+        <item>@drawable/l6</item>
+        <item>@drawable/l7</item>
+        <item>@drawable/l8</item>
+        <item>@drawable/l9</item>
+        <item>@drawable/l10</item>
+        <item>@drawable/l11</item>
+        <item>@drawable/l12</item>
+        <item>@drawable/l13</item>
+        <item>@drawable/l14</item>
+        <item>@drawable/l15</item>
+        <item>@drawable/l16</item>
+        <item>@drawable/l17</item>
+        <item>@drawable/l18</item>
+        <item>@drawable/l19</item>
+        <item>@drawable/l20</item>
+        <item>@drawable/l21</item>
+        <item>@drawable/l22</item>
+        <item>@drawable/l23</item>
+        <item>@drawable/l24</item>
+        <item>@drawable/l25</item>
+        <item>@drawable/l26</item>
+        <item>@drawable/l27</item>
+        <item>@drawable/l28</item>
+        <item>@drawable/l29</item>
+        <item>@drawable/l30</item>
+        <item>@drawable/l31</item>
+        <item>@drawable/l32</item>
+        <item>@drawable/l33</item>
+        <item>@drawable/l34</item>
+        <item>@drawable/l35</item>
+        <item>@drawable/l36</item>
+        <item>@drawable/l37</item>
+        <item>@drawable/l38</item>
+        <item>@drawable/l39</item>
+        <item>@drawable/l40</item>
+        <item>@drawable/l41</item>
+        <item>@drawable/l42</item>
+        <item>@drawable/l43</item>
+        <item>@drawable/l44</item>
+        <item>@drawable/l45</item>
+        <item>@drawable/l46</item>
+        <item>@drawable/l47</item>
+        <item>@drawable/l48</item>
+        <item>@drawable/l49</item>
+        <item>@drawable/l50</item>
+        <item>@drawable/l51</item>
+
+    </integer-array>
+    <integer-array name="vishnuji_arr">
+        <item>@drawable/v1</item>
+        <item>@drawable/v2</item>
+        <item>@drawable/v3</item>
+        <item>@drawable/v4</item>
+        <item>@drawable/v5</item>
+        <item>@drawable/v6</item>
+        <item>@drawable/v7</item>
+        <item>@drawable/v8</item>
+        <item>@drawable/v9</item>
+        <item>@drawable/v10</item>
+        <item>@drawable/v11</item>
+        <item>@drawable/v12</item>
+        <item>@drawable/v13</item>
+        <item>@drawable/v14</item>
+        <item>@drawable/v15</item>
+        <item>@drawable/v16</item>
+        <item>@drawable/v17</item>
+        <item>@drawable/v18</item>
+        <item>@drawable/v19</item>
+        <item>@drawable/v20</item>
+        <item>@drawable/v21</item>
+        <item>@drawable/v22</item>
+        <item>@drawable/v23</item>
+        <item>@drawable/v24</item>
+        <item>@drawable/v25</item>
+        <item>@drawable/v26</item>
+        <item>@drawable/v27</item>
+        <item>@drawable/v28</item>
+        <item>@drawable/v29</item>
+        <item>@drawable/v30</item>
+        <item>@drawable/v31</item>
+        <item>@drawable/v32</item>
+        <item>@drawable/v33</item>
+        <item>@drawable/v34</item>
+        <item>@drawable/v35</item>
+        <item>@drawable/v36</item>
+        <item>@drawable/v37</item>
+        <item>@drawable/v38</item>
+        <item>@drawable/v39</item>
+        <item>@drawable/v40</item>
+        <item>@drawable/v31</item>
+        <item>@drawable/v32</item>
+        <item>@drawable/v33</item>
+        <item>@drawable/v34</item>
+        <item>@drawable/v35</item>
+        <item>@drawable/v36</item>
+        <item>@drawable/v37</item>
+        <item>@drawable/v38</item>
+        <item>@drawable/v39</item>
+        <item>@drawable/v40</item>
+        <item>@drawable/v41</item>
+        <item>@drawable/v42</item>
+        <item>@drawable/v43</item>
+        <item>@drawable/v44</item>
+        <item>@drawable/v45</item>
+        <item>@drawable/v46</item>
+        <item>@drawable/v47</item>
+        <item>@drawable/v48</item>
+        <item>@drawable/v49</item>
+        <item>@drawable/v50</item>
+        <item>@drawable/v51</item>
+        <item>@drawable/v52</item>
+        <item>@drawable/v53</item>
+        <item>@drawable/v54</item>
+        <item>@drawable/v55</item>
+        <item>@drawable/v56</item>
+    </integer-array>
+    <integer-array name="saraswatiji_arr">
+        <item>@drawable/s1</item>
+        <item>@drawable/s2</item>
+        <item>@drawable/s3</item>
+        <item>@drawable/s4</item>
+        <item>@drawable/s5</item>
+        <item>@drawable/s6</item>
+        <item>@drawable/s7</item>
+        <item>@drawable/s8</item>
+        <item>@drawable/s9</item>
+        <item>@drawable/s10</item>
+        <item>@drawable/s11</item>
+        <item>@drawable/s12</item>
+        <item>@drawable/s13</item>
+        <item>@drawable/s14</item>
+        <item>@drawable/s15</item>
+        <item>@drawable/s16</item>
+        <item>@drawable/s17</item>
+        <item>@drawable/s18</item>
+        <item>@drawable/s19</item>
+        <item>@drawable/s20</item>
+        <item>@drawable/s21</item>
+        <item>@drawable/s22</item>
+        <item>@drawable/s23</item>
+        <item>@drawable/s24</item>
+        <item>@drawable/s25</item>
+        <item>@drawable/s26</item>
+        <item>@drawable/s27</item>
+        <item>@drawable/s28</item>
+        <item>@drawable/s29</item>
+        <item>@drawable/s30</item>
+        <item>@drawable/s31</item>
+        <item>@drawable/s32</item>
+        <item>@drawable/s33</item>
+        <item>@drawable/s34</item>
+        <item>@drawable/s35</item>
+        <item>@drawable/s36</item>
+        <item>@drawable/s37</item>
+        <item>@drawable/s38</item>
+        <item>@drawable/s39</item>
+        <item>@drawable/s40</item>
+        <item>@drawable/s41</item>
+        <item>@drawable/s42</item>
+        <item>@drawable/s43</item>
+        <item>@drawable/s44</item>
+        <item>@drawable/s45</item>
+        <item>@drawable/s46</item>
+        <item>@drawable/s47</item>
+        <item>@drawable/s48</item>
+    </integer-array>
+
+
+    <integer-array name="sherovalimata_arr">
+        <item>@drawable/sh1</item>
+        <item>@drawable/sh2</item>
+        <item>@drawable/sh3</item>
+        <item>@drawable/sh4</item>
+        <item>@drawable/sh5</item>
+        <item>@drawable/sh6</item>
+        <item>@drawable/sh7</item>
+        <item>@drawable/sh8</item>
+        <item>@drawable/sh9</item>
+        <item>@drawable/sh10</item>
+        <item>@drawable/sh11</item>
+        <item>@drawable/sh12</item>
+        <item>@drawable/sh13</item>
+        <item>@drawable/sh14</item>
+        <item>@drawable/sh15</item>
+        <item>@drawable/sh16</item>
+        <item>@drawable/sh17</item>
+        <item>@drawable/sh18</item>
+        <item>@drawable/sh19</item>
+        <item>@drawable/sh20</item>
+        <item>@drawable/sh21</item>
+        <item>@drawable/sh22</item>
+        <item>@drawable/sh23</item>
+        <item>@drawable/sh24</item>
+        <item>@drawable/sh25</item>
+        <item>@drawable/sh26</item>
+        <item>@drawable/sh27</item>
+        <item>@drawable/sh29</item>
+        <item>@drawable/sh30</item>
+        <item>@drawable/sh31</item>
+        <item>@drawable/sh32</item>
+        <item>@drawable/sh33</item>
+        <item>@drawable/sh34</item>
+        <item>@drawable/sh35</item>
+        <item>@drawable/sh36</item>
+        <item>@drawable/sh37</item>
+        <item>@drawable/sh38</item>
+        <item>@drawable/sh39</item>
+        <item>@drawable/sh40</item>
+        <item>@drawable/sh41</item>
+        <item>@drawable/sh42</item>
+        <item>@drawable/sh43</item>
+        <item>@drawable/sh44</item>
+        <item>@drawable/sh45</item>
+        <item>@drawable/sh46</item>
+        <item>@drawable/sh47</item>
+        <item>@drawable/sh48</item>
+        <item>@drawable/sh49</item>
+        <item>@drawable/sh50</item>
+        <item>@drawable/sh51</item>
+        <item>@drawable/sh52</item>
+        <item>@drawable/sh53</item>
+        <item>@drawable/sh54</item>
+        <item>@drawable/sh55</item>
+        <item>@drawable/sh56</item>
+    </integer-array>
+    <integer-array name="brahmaji_arr">
+        <item>@drawable/bh1</item>
+        <item>@drawable/bh2</item>
+        <item>@drawable/bh3</item>
+        <item>@drawable/bh4</item>
+        <item>@drawable/bh5</item>
+        <item>@drawable/bh6</item>
+        <item>@drawable/bh7</item>
+        <item>@drawable/bh8</item>
+        <item>@drawable/bh9</item>
+        <item>@drawable/bh10</item>
+        <item>@drawable/bh11</item>
+        <item>@drawable/bh12</item>
+        <item>@drawable/bh13</item>
+        <item>@drawable/bh14</item>
+        <item>@drawable/bh15</item>
+        <item>@drawable/bh16</item>
+        <item>@drawable/bh17</item>
+        <item>@drawable/bh18</item>
+        <item>@drawable/bh19</item>
+        <item>@drawable/bh20</item>
+        <item>@drawable/bh21</item>
+        <item>@drawable/bh22</item>
+        <item>@drawable/bh23</item>
+        <item>@drawable/bh24</item>
+        <item>@drawable/bh25</item>
+        <item>@drawable/bh26</item>
+        <item>@drawable/bh27</item>
+        <item>@drawable/bh29</item>
+        <item>@drawable/bh30</item>
+        <item>@drawable/bh31</item>
+        <item>@drawable/bh32</item>
+        <item>@drawable/bh33</item>
+        <item>@drawable/bh34</item>
+        <item>@drawable/bh35</item>
+        <item>@drawable/bh36</item>
+        <item>@drawable/bh37</item>
+        <item>@drawable/bh38</item>
+        <item>@drawable/bh39</item>
+        <item>@drawable/bh40</item>
+        <item>@drawable/bh41</item>
+        <item>@drawable/bh42</item>
+        <item>@drawable/bh43</item>
+        <item>@drawable/bh44</item>
+        <item>@drawable/bh45</item>
+        <item>@drawable/bh46</item>
+        <item>@drawable/bh47</item>
+        <item>@drawable/bh48</item>
+        <item>@drawable/bh49</item>
+        <item>@drawable/bh50</item>
+        <item>@drawable/bh51</item>
+    </integer-array>
+    <integer-array name="banner_arr">
+        <item>@drawable/ban1</item>
+        <item>@drawable/bnn2</item>
+        <item>@drawable/bnn3</item>
+
+    </integer-array>
+    <string name="app_name">All Gods Wallpapers</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="snavigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="snavigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">All GODS Wallpapers</string>
+    <string name="nav_header_subtitle">Version 1.0.0</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="shiv">Shiv Ji</string>
+    <string name="ganesh">Ganesh Ji</string>
+
+    <string name="krishan">Krishan Ji</string>
+    <string name="hanuman">Hanuman Ji</string>
+
+    <string name="ram">Shri Ram Ji</string>
+
+    <string name="laxmi">Laxmi ji</string>
+    <string name="saraswati">Saraswati Ji</string>
+    <string name="vishnu">Vishnu Ji</string>
+    <string name="shero_vali_mata">Shero vali Mata</string>
+    <string name="brahma">Brahma Ji</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_fav">Fav</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_boo">boo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="text_arr">
+        <item>Shiv Ji</item>
+        <item>Ganesh Ji</item>
+        <item>Krishan Ji</item>
+        <item>Hanuman Ji</item>
+        <item>Shri Ram Ji</item>
+        <item>Laxmi Ji</item>
+        <item>Saraswati Ji</item>
+        <item>Vishnu ji</item>
+        <item>SheroVali Mata</item>
+        <item>Brahma Ji</item>
+    </string-array>
+</resources>
